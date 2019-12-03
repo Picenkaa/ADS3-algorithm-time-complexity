@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1575397534 source:c:\users\lenovo\desktop\ads3nd\main.cpp
+	<time.h>
+	<iostream>
+
